@@ -1,8 +1,7 @@
 <h1>Flutter study</h1>
 <hr>
 
-<h3>2 week</h3>
-<p>샤잠</p> 
+<h3>2 week Shazam</h3> 
 <span>
 <p>1page</p>
 <img src="https://github.com/ksw1912/FlutterStudy/assets/150943603/d7824521-fe19-4c6d-8a80-c01f16cba71a" height="400" width="400">
