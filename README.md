@@ -1,7 +1,7 @@
 
 샤잠 
 1페이지
-<img src="![image](https://github.com/ksw1912/FlutterStudy/assets/150943603/d7824521-fe19-4c6d-8a80-c01f16cba71a)">
+<img src="https://github.com/ksw1912/FlutterStudy/assets/150943603/d7824521-fe19-4c6d-8a80-c01f16cba71a">
 2페이지
 <img src="![Uploading image.png…]()
 ">
