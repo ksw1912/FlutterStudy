@@ -3,7 +3,7 @@
 ## 1 week Carrot Market
 | 1page |
 |-------|
-| <img src="https://github.com/ksw1912/FlutterStudy/assets/150943603/b8ee9797-c65f-4240-8929-e35c167c5a0a" width="100%">|
+| <img src="https://github.com/ksw1912/FlutterStudy/assets/150943603/b8ee9797-c65f-4240-8929-e35c167c5a0a" width="50%">|
 ## 2 week Shazam
 | 1page | 2page | 3page |
 |-------|-------|-------|
