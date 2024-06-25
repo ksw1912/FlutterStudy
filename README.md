@@ -15,4 +15,4 @@
 
 ## 4 week Watcha_pedia
 | Video |
-| <source src="https://github.com/ksw1912/FlutterStudy/assets/150943603/3bc87443-2900-4f08-a918-99c6fe97fbb6" width="100%"> |
+| <img src="https://github.com/ksw1912/FlutterStudy/assets/150943603/399a9120-67ff-46e9-bdf3-ab70054f6e52" width="100%"> |
